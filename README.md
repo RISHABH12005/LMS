@@ -2,9 +2,9 @@
 
 ## Overview
 
-The *Livestock Monitoring System* is a technology-driven solution designed to enhance the management and well-being of livestock. It helps farmers track livestock movements, monitor their health, and detect obstacles in their environment using various sensors and automation tools.
+The *Livestock Monitoring System* is a technology-driven solution designed to enhance the management and well-being of livestock. It helps farmers track livestock movements & monitor their health & detect obstacles in their environment using various sensors and automation tools.
 
-The *Livestock Monitoring System* is designed to track and manage livestock using *Raspberry Pi 3B, BrickPi, LEGO Mindstorms motors, ultrasonic sensors, and a web camera*. This system helps detect obstacles, automate movement, and monitor livestock remotely.
+The *Livestock Monitoring System* is designed to track and manage livestock using *Raspberry Pi 3B, BrickPi, LEGO Mindstorms motors, ultrasonic sensors, and a web camera*. This system helps detect obstacles & automate movement & monitor livestock remotely.
 
 ## Hardware Components
 
@@ -51,4 +51,3 @@ The *Livestock Monitoring System* is designed to track and manage livestock usin
 - AI-based livestock health monitoring
 - Remote control via mobile app
 - Cloud data storage for better analysis
-
