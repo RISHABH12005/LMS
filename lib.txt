@@ -1,0 +1,7 @@
+opencv-python
+fastapi
+Brick pi 
+ngrok
+ultralytics
+websockets
+uvicorn
