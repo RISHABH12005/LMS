@@ -1,6 +1,6 @@
 opencv-python
 fastapi
-Brick pi 
+brickpi3 
 ngrok
 ultralytics
 websockets
