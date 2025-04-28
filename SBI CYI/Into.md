@@ -2,6 +2,7 @@
 ## Participant Details
 - Team: Bhrama
 - Name: Rishabh Jain
+- Members: Sagear Seth, Siddhant Vashisth
 - UID: CYIF20323
 - GitHub: [RISHABH12005](https://github.com/RISHABH12005)
 
