@@ -1,7 +1,5 @@
 opencv-python
 fastapi
-brickpi3 
 ngrok
-ultralytics
 websockets
 uvicorn
