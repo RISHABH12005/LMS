@@ -15,6 +15,9 @@
 - [1st Place – Ideathon & Pitch Deck 2025](https://www.linkedin.com/posts/rishabh-jain-60a887313_excited-to-announce-that-our-team-brahma-activity-7315862372122828804-GPgT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-viqoBVPs6O0cgYfNcKVCt43rQw7ecrBc)
 - We are proud to have won **First Prize** at the Ideathon Event!
 
+## Instagram Post
+- [1st Place – Ideathon & Pitch Deck 2025](https://www.instagram.com/p/DG4xGu4CANw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
 ---
 
 ## About
