@@ -7,7 +7,7 @@
 - **GitHub:** [RISHABH12005](https://github.com/RISHABH12005)
 
 ## Project
-- 📄 [Documentation](https://github.com/RISHABH12005/LMS/blob/main/IDEATHON/LMS.pdf)
+- 📄 [Documentation](https://drive.google.com/file/d/1xRXLO_evQ4bLcpTdxFpb-AGcWBDoj6Iw/view?usp=sharing)
 - 🎥 [Prototype Video](https://drive.google.com/file/d/1Tl8UirtYRDB9G6wiajU5Q0nLZ-rQDWZP/view?usp=drive_link)
 
 ## LinkedIn Posts
