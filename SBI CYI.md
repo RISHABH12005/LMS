@@ -10,6 +10,7 @@
 
 ## Project Video
 - [YouTube](https://www.youtube.com/watch?v=-Eb9HqYakSQ)
+- [Instagram](https://www.instagram.com/reel/DHBQzcPoItu/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ## Official Result
 - [Top 25 Challengers](https://youthideathon.in/college-youth-ideathon-top-25-challengers-results/)
