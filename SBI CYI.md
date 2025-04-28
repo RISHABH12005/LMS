@@ -12,8 +12,8 @@
 [YouTube](https://www.youtube.com/watch?v=-Eb9HqYakSQ)
 
 ## Official Result
-- [Selected for Round 2](https://youthideathon.in/college-youth-ideathon-results/)
 - [Top 25 Challengers](https://youthideathon.in/college-youth-ideathon-top-25-challengers-results/)
+- [Top 1000 in Round 2](https://youthideathon.in/college-youth-ideathon-results/)
 
 ---
 
