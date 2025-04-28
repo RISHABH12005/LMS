@@ -25,6 +25,11 @@
 
 ---
 
+## Instagram Post
+- [Top 25 Challengers of CYI 2025](https://www.instagram.com/p/DH3Y0CYPysQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+---
+
 ## About
 This project was submitted as part of the SBI College Youth Ideathon 2025 competition, under UID **CYIF20323**.  
 Our innovative idea addresses the development of an **Open Source Learning Management System (LMS)** that provides a platform for users to access, manage, and create educational content efficiently. 
