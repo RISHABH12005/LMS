@@ -7,7 +7,6 @@
 - **Members:** Sagar Seth, Siddhant Vashisth
 - **GitHub:** [RISHABH12005](https://github.com/RISHABH12005)
 
-
 ## Project Video
 - [YouTube](https://www.youtube.com/watch?v=-Eb9HqYakSQ)
 - [Instagram](https://www.instagram.com/reel/DHBQzcPoItu/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
