@@ -6,6 +6,7 @@ hostname -I
 
 ssh pi@<_____>                         # RPi IP
 
+
 # Methord 2
 
 arp -a
@@ -17,6 +18,7 @@ ssh pi@<_____>
 ping raspberrypi.local                # Checking ping RPi
 
 ssh pi@raspberrypi.local              # root name@user name  # Put the Password 
+
 
 # Methord 3
 
