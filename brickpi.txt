@@ -1,0 +1,13 @@
+sudo apt dist-upgrade
+
+sudo apt install python3-dev python3-pip python3-rpi.gpio git
+
+git clone https://github.com/DexterInd/BrickPi.git
+
+cd BrickPi
+
+sudo python3 setup.py install
+
+# Verify installation
+cd Software/Python
+python3 BrickPiExample.py 
