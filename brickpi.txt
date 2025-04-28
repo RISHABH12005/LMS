@@ -8,6 +8,5 @@ cd BrickPi
 
 sudo python3 setup.py install
 
-# Verify installation
-cd Software/Python
+cd Software/Python           # Verify installation
 python3 BrickPiExample.py 
