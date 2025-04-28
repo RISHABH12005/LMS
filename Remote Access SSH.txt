@@ -1,10 +1,10 @@
 # Methord 1
 
-sudo raspi-config      # Enable SSH on RPi
+sudo raspi-config                      # Enable SSH on RPi
 
 hostname -I
 
-ssh pi@<_____>         # RPi IP
+ssh pi@<_____>                         # RPi IP
 
 # Methord 2
 
@@ -14,13 +14,13 @@ sudo arp -a
 
 ssh pi@<_____>
 
-ping raspberrypi.local      # Checking ping RPi
+ping raspberrypi.local                # Checking ping RPi
 
-ssh pi@raspberrypi.local    # root name@user name  # Put the Password 
+ssh pi@raspberrypi.local              # root name@user name  # Put the Password 
 
 # Methord 3
 
-https://npcap.com/download        # Install Nmap & Npcap for the port Scan
+https://npcap.com/download            # Install Nmap & Npcap for the port Scan
 https://nmap.org/download.html
 
 nmap --version
