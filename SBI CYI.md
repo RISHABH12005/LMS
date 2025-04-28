@@ -3,7 +3,7 @@
 ## Information
 - **Team:** Bhrama
 - **UID:** CYIF20323
-- **Name:** Rishabh Jain
+- **Leader:** Rishabh Jain
 - **Members:** Sagar Seth, Siddhant Vashisth
 - **GitHub:** [RISHABH12005](https://github.com/RISHABH12005)
 
