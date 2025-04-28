@@ -7,9 +7,7 @@
 - **UID:** CYIF20323
 
 ## Project Video
-[![Watch the Video](https://img.youtube.com/vi/-Eb9HqYakSQ/0.jpg)](https://www.youtube.com/watch?v=-Eb9HqYakSQ)
-
-> Click the image above to watch our submission video on YouTube.
+[Watch the Video on YouTube](https://www.youtube.com/watch?v=-Eb9HqYakSQ)
 
 ## Official Result Links
 - [Final List of Teams Selected for Round 2](https://youthideathon.in/college-youth-ideathon-results/)
