@@ -1,11 +1,12 @@
-# LMS Ideathon Project - Team Brahma
+# Ideathon By IIC & ISD at JUET
 
 ## Participant Information
+- **Team:** Bhrama
 - **Name:** Rishabh Jain
-- **Team Members:** Sagar Seth, Siddhant Vashisth
+- **Members:** Sagar Seth, Siddhant Vashisth
 - **GitHub:** [RISHABH12005](https://github.com/RISHABH12005)
 
-## Project Deliverables
+## Project
 - 📄 [Documentation](https://github.com/RISHABH12005/LMS/blob/main/IDEATHON/LMS.pdf)
 - 🎥 [Prototype Video](https://drive.google.com/file/d/1Tl8UirtYRDB9G6wiajU5Q0nLZ-rQDWZP/view?usp=drive_link)
 
@@ -16,7 +17,7 @@
 
 ---
 
-## About the Project
+## About
 Our project, titled **Learning Management System (LMS)**, aims to create an open-source, efficient, and user-friendly platform for managing educational content and online learning experiences.  
 We focused on solving real-world challenges faced by educators and learners by integrating features like course management, content delivery, assessment modules, and collaboration tools.
 
