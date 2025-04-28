@@ -1,6 +1,6 @@
 # Ideathon By IIC & ISD at JUET
 
-## Participant Information
+## Information
 - **Team:** Bhrama
 - **Name:** Rishabh Jain
 - **Members:** Sagar Seth, Siddhant Vashisth
