@@ -22,8 +22,8 @@ ssh pi@raspberrypi.local              # root name@user name  # Put the Password
 
 # Methord 3
 
-https://npcap.com/download            # Install Nmap & Npcap for the port Scan
-https://nmap.org/download.html
+# https://npcap.com/download            # Install Nmap & Npcap for the port Scan
+# https://nmap.org/download.html
 
 nmap --version
 
