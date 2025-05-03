@@ -7,8 +7,8 @@
 - **GitHub:** [RISHABH12005](https://github.com/RISHABH12005)
 
 ## Project
-- 📄 [Documentation](https://drive.google.com/file/d/1xRXLO_evQ4bLcpTdxFpb-AGcWBDoj6Iw/view?usp=sharing)
-- 🎥 [Prototype Video](https://drive.google.com/file/d/1Tl8UirtYRDB9G6wiajU5Q0nLZ-rQDWZP/view?usp=drive_link)
+- 📄 [Documentation](https://drive.google.com/file/d/1mpX0rp3fOHY-sfb0Rhgvdsz6skg4wsOL/view?usp=drive_link)
+- 🎥 [Prototype Video](https://drive.google.com/file/d/1FoeUGYo0gPQQ7hzIOS72E_aX9h2rN_Oi/view?usp=drive_link)
 
 ## LinkedIn Posts
 - [Our Winning Project](https://www.linkedin.com/posts/rishabh-jain-60a887313_ideathon-pitchabrdeck-ideathon-activity-7315835765408608257-dZE3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-viqoBVPs6O0cgYfNcKVCt43rQw7ecrBc)
