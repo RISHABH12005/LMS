@@ -8,14 +8,14 @@ This system integrates *Raspberry Pi 3B, BrickPi, LEGO Mindstorms motors, ultras
 
 ## Hardware Components
 
-| Component                   | Function                                                |
-| --------------------------- | ------------------------------------------------------- |
-| *Raspberry Pi 4B (8GB RAM)* | Controls the entire system                              |
-| *Raspberry Pi Senset HAT*   | Collecting environmental data
-| *BrickPi*                   | Interfaces Raspberry Pi with LEGO Mindstorms components |
-| *Web Camera*                | Captures live video feed                                |
-| *2 Ultrasonic Sensors*      | Detects obstacles at the front & back                |
-| *2 LEGO Mindstorms Motors*  | Controls movement of gates & feeding systems         |
+| Component                   | Quality | Function                                                |
+| --------------------------- | --------| ------------------------------------------------------- |
+| *Raspberry Pi 4B (8GB RAM)* |     2   | Controls the entire system                              |
+| *Raspberry Pi Senset HAT*   |     1   | Collecting environmental data
+| *BrickPi*                   |     1   | Interfaces Raspberry Pi with LEGO Mindstorms components |
+| *Web Camera*                |     1   | Captures live video feed                                |
+| *Ultrasonic Sensors*        |     2   | Detects obstacles at the front & back                |
+| *LEGO Mindstorms Motors*    |     4   | Controls movement of gates & feeding systems         |
 
 ## Features
 
