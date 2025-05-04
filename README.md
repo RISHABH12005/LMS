@@ -21,9 +21,9 @@ This system integrates *RPi 4B, Senset HAT, BrickPi, Speed Motors, Ultrasonic Se
 
 For our prototype, we are using a *website* to control the motors remotely & display real-time video feed directly on the web interface.
 
-- *Live Camera Feed* – Enables remote livestock monitoring through a web camera.
+- *Live Camera Feed* – Enables remote livestock monitoring through a RPi Cam.
 - *Obstacle Detection* – Uses ultrasonic sensors to detect & respond to obstacles.
-- *Motorized Control* – Automates movement using LEGO Mindstorms motors.
+- *Motorized Control* – Automates movement using Speed Motors.
 - *Alert System* – Sends real-time notifications when obstacles are detected.
 
 ## Software & Libraries
@@ -32,7 +32,7 @@ For our prototype, we are using a *website* to control the motors remotely & dis
 - *Uvicorn* – ASGI server for running FastAPI applications
 - *Websockets* – Facilitates real-time communication
 - *Ngrok* – Enables secure remote access
-- *BrickPi* – Interfaces Raspberry Pi with LEGO Mindstorms components
+- *BrickPi* – Interfaces RPi with Speed Moters
 - *FastAPI* – Provides a high-performance API framework
 - *OpenCV* – Handles image processing & computer vision tasks
 - *Torch* – Supports AI/ML functionalities
