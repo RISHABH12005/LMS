@@ -12,3 +12,7 @@ cd Software/Python           # Verify installation
 python3 BrickPiExample.py 
 
 # If not Work 
+
+sudo raspi-config
+
+# Interface Option -> Enable -> IS2, SPI
