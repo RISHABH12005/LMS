@@ -44,6 +44,7 @@ For our prototype, we are using a *website* to control the motors remotely & dis
 - Automated obstacle detection & response
 - Control of gates & feeding systems
 - Remote access to live video feed & system alerts
+- Display the environmental data Humidity, Temperature, Pressure, Acceleration
 
 ## Future Enhancements
 
