@@ -4,18 +4,18 @@
 
 The *Livestock Monitoring System (LMS)* is an advanced solution designed to improve livestock management & ensure their well-being. By utilizing modern technology, this system helps farmers efficiently track livestock movements, monitor their health, detect obstacles in their surroundings using a combination of sensors & automation tools.
 
-This system integrates *Raspberry Pi 4B, Raspberry Pi Senset HAT, BrickPi, LEGO Mindstorms Speed Motors, Ultrasonic sensors, Raspberry Pi 5MP Camera* to enable real-time monitoring & automated operations. It enhances efficiency by detecting obstacles, automating movement, providing remote access to livestock data.
+This system integrates *Raspberry Pi 4B, Raspberry Pi Senset HAT, BrickPi, LEGO Mindstorms Speed Motors, LEGO Mindstorms Ultrasonic Sensors, Raspberry Pi 5MP Camera* to enable real-time monitoring & automated operations. It enhances efficiency by detecting obstacles, automating movement, providing remote access to livestock data.
 
 ## Hardware Components
 
-| Component                      | Quality | Function                                                |
-| ------------------------------ | --------| ------------------------------------------------------- |
-| *Raspberry Pi 4B (8GB RAM)*    |     2   | Controls the entire system                              |
-| *Raspberry Pi Senset HAT*      |     1   | Collecting environmental data                           |
-| *BrickPi*                      |     1   | Interfaces Raspberry Pi with LEGO Mindstorms components |
-| *Raspberry Pi 5MP Camera*      |     1   | Captures live video feed                                |
-| *Ultrasonic Sensors*           |     2   | Detects obstacles at the front & back                   |
-| *LEGO Mindstorms Speed Motors* |     4   | Controls movement of gates & feeding systems            |
+| Component                            | Quality | Function                                                |
+| ------------------------------------ | ------- | ------------------------------------------------------- |
+| *Raspberry Pi 4B (8GB RAM)*          |     2   | Controls the entire system                              |
+| *Raspberry Pi Senset HAT*            |     1   | Collecting environmental data                           |
+| *BrickPi*                            |     1   | Interfaces Raspberry Pi with LEGO Mindstorms components |
+| *Raspberry Pi 5MP Camera*            |     1   | Captures live video feed                                |
+| *LEGO Mindstorms Ultrasonic Sensors* |     2   | Detects obstacles at the front & back                   |
+| *LEGO Mindstorms Speed Motors*       |     4   | Controls movement of gates & feeding systems            |
 
 ## Features
 
