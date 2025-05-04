@@ -10,7 +10,7 @@ This system integrates *Raspberry Pi 3B, BrickPi, LEGO Mindstorms motors, ultras
 
 | Component                   | Function                                                |
 | --------------------------- | ------------------------------------------------------- |
-| *Raspberry Pi 3B (1GB RAM)* | Controls the entire system                              |
+| *Raspberry Pi 4B (8GB RAM)* | Controls the entire system                              |
 | *BrickPi*                   | Interfaces Raspberry Pi with LEGO Mindstorms components |
 | *Web Camera*                | Captures live video feed                                |
 | *2 Ultrasonic Sensors*      | Detects obstacles at the front & back                |
