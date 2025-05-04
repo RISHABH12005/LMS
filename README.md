@@ -55,5 +55,4 @@ For our prototype, we are using a *website* to control the motors remotely & dis
 - Cloud-based data storage & analytics for better decision-making
 - RFID Tagging for individual animal identification.
 - Solar Power Support for off-grid deployment.
-- Local Data Processing :
-All operations are processed in real-time, ensuring fast response & system autonomy without reliance on internet connectivity.
+- Local Data Processing -> All operations are processed in real-time, ensuring fast response & system autonomy without reliance on internet connectivity.
