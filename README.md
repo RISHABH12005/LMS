@@ -1,4 +1,4 @@
-# Livestock Monitoring System
+# Livestock Monitoring System (LMS)
 
 ## Overview
 
@@ -11,6 +11,7 @@ This system integrates *Raspberry Pi 3B, BrickPi, LEGO Mindstorms motors, ultras
 | Component                   | Function                                                |
 | --------------------------- | ------------------------------------------------------- |
 | *Raspberry Pi 4B (8GB RAM)* | Controls the entire system                              |
+| *Raspberry Pi Senset HAT*   | Collecting environmental data
 | *BrickPi*                   | Interfaces Raspberry Pi with LEGO Mindstorms components |
 | *Web Camera*                | Captures live video feed                                |
 | *2 Ultrasonic Sensors*      | Detects obstacles at the front & back                |
@@ -46,7 +47,6 @@ For our prototype, we are using a *website* to control the motors remotely & dis
 
 ## Future Enhancements
 
-- *Sense HAT* for collecting environmental data
 - *Raspberry Pi AI Hat* for enhanced AI-based analytics
 - *Thermal Camera* for livestock health monitoring based on temperature
 - *Motion Sensor* for improved movement detection
