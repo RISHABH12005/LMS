@@ -10,3 +10,5 @@ sudo python3 setup.py install
 
 cd Software/Python           # Verify installation
 python3 BrickPiExample.py 
+
+# If not Work 
