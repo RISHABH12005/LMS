@@ -67,7 +67,6 @@ async def video_stream(websocket: WebSocket):
             await websocket.close()
         print("WebSocket Connection Closed")
 
-
 @app.get("/")
 async def root():
     return {"message": "YOLO Object Detection WebSocket Server is running!"}
