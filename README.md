@@ -44,6 +44,7 @@ For our prototype, we are using a *website* to control the motors remotely & dis
 - Automated obstacle detection & response
 - Control of gates & feeding systems
 - Remote access to live video feed & system alerts
+- Remote control capabilities via a mobile app
 - Display the environmental data Humidity, Temperature, Pressure, Acceleration
 
 ## Future Enhancements
@@ -52,7 +53,6 @@ For our prototype, we are using a *website* to control the motors remotely & dis
 - *Thermal Camera* for livestock health monitoring based on temperature
 - *Motion Sensor* for improved movement detection
 - AI-driven livestock health analysis
-- Remote control capabilities via a mobile app
 - Cloud-based data storage & analytics for better decision-making
 - RFID Tagging for individual animal identification.
 - Solar Power Support for off-grid deployment.
