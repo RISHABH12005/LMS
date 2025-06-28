@@ -32,11 +32,14 @@ For our prototype, we are using a *website* to control the motors remotely & dis
 - *Uvicorn* – ASGI server for running FastAPI applications
 - *Websockets* – Facilitates real-time communication
 - *Ngrok* – Enables secure remote access
-- *BrickPi* – Interfaces RPi with Speed Moters
+- *Brickpi3* – Interfaces RPi with Speed Moters
 - *FastAPI* – Provides a high-performance API framework
 - *OpenCV* – Handles image processing & computer vision tasks
 - *Torch* – Supports AI/ML functionalities
 - *Ultralytic* – Offers advanced data analytics
+- *Picamera2* - To control Raspberry Pi cameras for capturing photos, videos, streaming images
+- *Sensethat* - For read sensor data & control the LED matrix on the Sense HAT board
+- *Kotlin* - Used for Android development & multiplatform applications
 
 ## Expected Output
 
