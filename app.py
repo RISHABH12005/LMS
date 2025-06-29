@@ -2,7 +2,7 @@ import struct
 from fastapi.responses import StreamingResponse
 from M import move
 from cam import generate_frames
-#from sensor import sensor
+from sensor import sensor
 import asyncio
 import cv2
 from fastapi import FastAPI, WebSocket,Request
