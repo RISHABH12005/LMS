@@ -29,12 +29,12 @@ sensor()'''
 @app.websocket("/share")
 async def video_stream(websocket: WebSocket):
     await websocket.accept()
-    print("Client Connected!")
+    print("Client Connected")
 
     cap = cv2.VideoCapture(0)
     
     if not cap.isOpened():
-        print("Camera not found! Closing connection.")
+        print("Camera not found Closing connection")
         await websocket.close()
         return
     
@@ -42,7 +42,7 @@ async def video_stream(websocket: WebSocket):
         while True:
             ret, frame = cap.read()
             if not ret:
-                print("No frame captured. Closing connection.")
+                print("No frame captured. Closing connection")
                 break
 
             results = model.predict(frame)  
