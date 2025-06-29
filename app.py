@@ -69,7 +69,7 @@ async def video_stream(websocket: WebSocket):
 
 @app.get("/")
 async def root():
-    return {"message": "YOLO Object Detection WebSocket Server is running!"}
+    return {"message": "Object Detection WebSocket Server is running!"}
 
 @app.post("/")
 async def control_motor(request: Request):
