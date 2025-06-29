@@ -1,6 +1,6 @@
 import struct
 from fastapi.responses import StreamingResponse
-from M import move
+from moter-sensor import move
 from cam import generate_frames
 from sensor import sensor
 import asyncio
