@@ -11,7 +11,7 @@ This system integrates *RPi 4B, Sense HAT, BrickPi, Speed Motors, Ultrasonic Sen
 | Component                            | Quality | Function                                                |
 | ------------------------------------ | ------- | ------------------------------------------------------- |
 | *Raspberry Pi 4B (8GB RAM)*          |     2   | Controls the entire system                              |
-| *Raspberry Pi Senset HAT*            |     1   | Collecting environmental data                           |
+| *Raspberry Pi Sense HAT*             |     1   | Collecting environmental data                           |
 | *BrickPi*                            |     1   | Interfaces Raspberry Pi with LEGO Mindstorms components |
 | *Raspberry Pi 5MP Camera*            |     1   | Captures live video feed                                |
 | *LEGO Mindstorms Ultrasonic Sensors* |     2   | Detects obstacles at the front & back                   |
