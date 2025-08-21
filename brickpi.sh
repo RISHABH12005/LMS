@@ -2,7 +2,7 @@ sudo apt dist-upgrade
 
 sudo apt install python3-dev python3-pip python3-rpi.gpio git
 
-git clone https://github.com/DexterInd/BrickPi.git
+git clone https://github.com/RISHABH12005/BrickPi.git
 
 cd BrickPi
 
