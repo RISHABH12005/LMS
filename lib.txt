@@ -1,5 +1,0 @@
-opencv-python
-fastapi
-ngrok
-websockets
-uvicorn
